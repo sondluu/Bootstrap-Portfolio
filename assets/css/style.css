@@ -1,0 +1,184 @@
+body{
+	background-color: #dcdcdc;
+}
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #dcdcdc;
+}
+
+#header{
+	background-color: white;
+	height: 60px;
+	width: 960px;
+	margin: 0 auto;
+	border-bottom: solid 1px #a9a9a9;
+}
+
+#container{
+	width: 960px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#section{
+	width: 570px;
+	float: left;
+	background-color: white;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 30px;
+	border: solid 1px #a9a9a9;
+}
+
+#contacttitle{
+	width: 570px;
+	height: 40px;
+	background-color: white;
+	font-family: Georgia;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 30px;
+	color: #4aaaa5;
+	border-bottom: solid #d3d3d3 2px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+#article{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: gray;
+	word-spacing:10px;
+	line-height: 1.5;
+	text-align: justify;
+}
+
+#aside{
+	width: 230px;
+	padding: 20px;
+	float: right;
+	background-color: white;
+	border: solid 1px #a9a9a9;
+}
+
+#connecttitle{
+	width: 200px;
+	height: 40px;
+	background-color: white;
+	font-family: Georgia;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 30px;
+	color: #4aaaa5;
+	border-bottom: solid #d3d3d3 2px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	display: inline;
+	padding: 3px;
+	margin-left: 5px;
+}
+
+#name{
+	background-color: #4aaaa5;
+	height: 60px;
+	width: 200px;
+	float: left;
+	font-family: Georgia;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	line-height: 60px;
+}
+
+#nav{
+	background-color: white;
+	height: 60px;
+	width: 250px;
+	float: right;
+}
+
+#About{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #4aaaa5;
+	text-align: center;
+	line-height: 60px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#Portfolio{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #4aaaa5;
+	text-align: center;
+	line-height: 60px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#Contact{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #4aaaa5;
+	text-align: center;
+	line-height: 60px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#SonImage{
+	height: 40%;
+	width: 40%;
+	float: left;
+	padding-right: 20px;
+}
+
+#footer{
+	position: absolute;
+	bottom: 0;
+	background-color: gray;
+	height: 60px;
+	width: 960px;
+	text-align: center;
+	line-height: 60px;
+	color: #777;
+	font-family: "arial";
+	font-size: 10px;
+	clear: both;
+	color: white;
+	border-top: solid 5px #4aaaa5;
+}
+form{
+	color: gray;
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+input{
+	width: 570px;
+	color: #a9a9a9;
+	line-height: 1.5;
+	height: 25px;
+}
+
+#messagefield{
+	height: 200px;
+}
+
+#submitbutton{
+	width: 100px;
+	color: white;
+	background-color: #4aaaa5;
+	height: 30px;
+}
+
